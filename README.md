@@ -16,7 +16,7 @@ Cette application permet aux utilisateurs de charger des fichiers audio, de mani
     Visualisation des spectrogrammes : Génération de spectrogrammes détaillés, y compris des spectrogrammes Mel et des chromagrammes pour l'analyse des fréquences. (supprimé)
     Visualisation du signal audio : L'onde sonore est visualisée avec des possibilités d'interaction (curseur d'exploration).
 
-### Fonctionnalités a ajouter :
+### Fonctionnalités à ajouter :
 
 - Modification de la hauteur : ajuster la hauteur de l'audio sans altérer le tempo.
 - Effet de réverbération : différents environnements acoustiques.
