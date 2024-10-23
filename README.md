@@ -21,3 +21,5 @@ Cette application permet aux utilisateurs de charger des fichiers audio, de mani
 - Modification de la hauteur : ajuster la hauteur de l'audio sans altérer le tempo.
 - Effet de réverbération : différents environnements acoustiques.
 - Appliquer des échos pour ajouter un effet sonore en plus.
+
+![application](assets/app.png)
